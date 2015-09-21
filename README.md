@@ -5,7 +5,7 @@ To compile: “make”
 
 To run: “./flood” for textual display or “./flood -graphics” for graphical display
 
-To play:
+To play:  
 new n: Creates a new n by n grid.  
 init: Enters initialization mode.  
 include f: Includes a file f which is a list of cell initializations of the same format of initialization from init.  
